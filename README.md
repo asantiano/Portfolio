@@ -16,7 +16,7 @@ Developed an all-in-one e-commerce system with:
 
 **Tools Used**: PHP, MySQL, Google Maps API, Bootstrap  
 📂 [View Project Repository](https://github.com/UBALDO17/JJAG-Meat-Trading) *((https://github.com/asantiano))*  
-🖼️ ![Capstone Screenshot](https://www.canva.com/design/DAGWyrV8_EE/P6rtdRTkWlulVI13NOkQDg/edit)
+🖼️ ![Capstone Screenshot](https://www.canva.com/design/DAGWyrV8_EE/P6rtdRTkWlulVI13NOkQDg/edit?utm_content=DAGWyrV8_EE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
