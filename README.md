@@ -15,8 +15,8 @@ Developed an all-in-one e-commerce system with:
 - Automated Delivery Fee Calculation (Map Pinning)
 
 **Tools Used**: PHP, MySQL, Google Maps API, Bootstrap  
-📂 [View Project Repository](#) *((https://github.com/asantiano))*  
-🖼️ ![Capstone Screenshot](https://your-image-link.com)
+📂 [View Project Repository](https://github.com/UBALDO17/JJAG-Meat-Trading) *((https://github.com/asantiano))*  
+🖼️ ![Capstone Screenshot](https://www.canva.com/design/DAGWyrV8_EE/P6rtdRTkWlulVI13NOkQDg/edit)
 
 ---
 
